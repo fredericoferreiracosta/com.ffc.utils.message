@@ -12,6 +12,7 @@
         <module>funnymessageimpl</module>
         <module>integrationtest</module>
         <module>holidaymessageimpl</module>
+        <module>defaultmessageimpl</module>
     </modules>
     <packaging>pom</packaging>
 
